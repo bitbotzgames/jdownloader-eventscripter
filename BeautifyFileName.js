@@ -3,6 +3,7 @@
 // Home.Before.Dark.S02E03.German.Subbed.720p.WEB.h264-WvF
 // it gets converted to:
 // Home Before Dark S02E03
+// Trigger Required: A new link has been added
 
 // Change to your language
 var yourLanguage = "German";
